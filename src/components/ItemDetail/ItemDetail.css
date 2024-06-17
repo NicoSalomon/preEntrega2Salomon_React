@@ -1,0 +1,11 @@
+.iDetail_div_principal {
+    margin-top: 4%;
+}
+
+.iDetail_div {
+    width: 20%;
+    margin: auto;
+    border-radius: 5%;
+    box-shadow: 0px 0px 5px 1px black;
+    padding: 1%;
+}

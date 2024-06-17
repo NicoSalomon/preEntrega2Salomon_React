@@ -1,0 +1,9 @@
+.icon {
+    margin-inline-end: 20px;
+}
+
+.icon2 {
+    background-image: url('../../img/cart.png');
+    background-size: 100%;
+    background-position: center;
+}
